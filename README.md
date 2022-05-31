@@ -17,8 +17,17 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 
 > O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
  
+ 
+### 3.PMC<br>
+![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
+a) inclusão do PMC desenvolvido pelo grupo
 
-### 3.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 4.Personas e Histórias de usuário<br>
+![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
+a) inclusão do PMC desenvolvido pelo grupo
+
+
+### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
 
 Sugestão: https://balsamiq.com/products/mockups/<br>
@@ -27,7 +36,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 ![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
 
-#### 3.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
+#### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
@@ -39,7 +48,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 * Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
  
 
-### 4 TABELA DE DADOS DO SISTEMA:
+### 6 TABELA DE DADOS DO SISTEMA:
     A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
     B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
  <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
@@ -50,12 +59,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
  
 
- ### 5.PMC<br>
- ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
- a) inclusão do PMC desenvolvido pelo grupo
  
  
- ### 6.MODELO CONCEITUAL<br>
+ ### 7.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 3 e o Máximo 5.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
@@ -67,28 +73,32 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
         
 ![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
-    
       
     
-#### 6.1 Descrição dos dados 
+#### 7.1 Descrição dos dados 
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 
+### 8	RASTREABILIDADE DOS ARTEFATOS<br>
+        a) Historia de usuários vs protótipo (mockup)
+        b) Protótipo vs Modelo conceitual
+        (não serão aceitos modelos que não estejam em conformidade)
 
-### 7	MODELO LÓGICO<br>
+
+### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
         (não serão aceitos modelos que não estejam em conformidade)
 
-### 8	MODELO FÍSICO<br>
+### 10	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         (criação de tabelas, alterações, etc..) 
         
        
-### 9	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados 
  <br> + insert para dados a serem inseridos)
@@ -97,10 +107,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         c) formato .SQL
 
 
-### 10	TABELAS E PRINCIPAIS CONSULTAS<br>
+### 12	TABELAS E PRINCIPAIS CONSULTAS<br>
     OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
-#### 10.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-#### 10.2 PRINCIPAIS CONSULTAS DO SISTEMA 
+#### 12.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
+#### 12.2 PRINCIPAIS CONSULTAS DO SISTEMA 
  Inserir as principais consultas (relativas aos 5 principais relatórios) definidas previamente no iten 3.1 deste template.
  <br>
   a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
@@ -109,18 +119,18 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  <br>
  <br>
  
- ### 11 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
+ ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 11.1	Integração com Linguagem de programação; <br>
- #### 11.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
+ #### 13.1	Integração com Linguagem de programação; <br>
+ #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
  #### solicitações feitas pelo professor. <br>
  <br>
  <br>
  
- ### 12 Slides e Apresentação em vídeo. <br>
+ ### 14 Slides e Apresentação em vídeo. <br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 12.1 Slides; <br>
- #### 12.2 Apresentação em vídeo <br>
+ #### 14.1 Slides; <br>
+ #### 14.2 Apresentação em vídeo <br>
  <br>
  <br>   
 
