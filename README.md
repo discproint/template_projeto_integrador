@@ -119,18 +119,25 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  <br>
  <br>
  
+ #### 12.3 ANTEPROJETO VERSÃO 1
+ (https://docs.google.com/document/d/1nGgzfSoPeej1z7zsuWkrFLMlNeRunrtw/edit "Modelo Conceitual")
+ 
+ 
  ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 13.1	Integração com Linguagem de programação; <br>
  #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
  #### solicitações feitas pelo professor. <br>
+ #### 13.3 ANTEPROJETO VERSÃO 2
  <br>
  <br>
+ 
  
  ### 14 Slides e Apresentação em vídeo. <br>
      OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
  #### 14.1 Slides; <br>
  #### 14.2 Apresentação em vídeo <br>
+ #### 14.3 ANTEPROJETO VERSÃO FINAL
  <br>
  <br>   
 
