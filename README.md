@@ -19,12 +19,17 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
  
 ### 3.PMC<br>
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
-a) inclusão do PMC desenvolvido pelo grupo
+![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
+a) inclusão do PMC desenvolvido pelo grupo <br>
+
 
 ### 4.Personas e Histórias de usuário<br>
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
-a) inclusão do PMC desenvolvido pelo grupo
+<img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
+a) inclusão dos Persons desenvolvidos pelo grupo<br>
+<br>
+<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
+b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+<br>
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
@@ -63,10 +68,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
  ### 7.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 3 e o Máximo 5.
+    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
  <br>(se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 3). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
+    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
     D) Qualidade e Clareza
         Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
@@ -86,6 +91,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
+        <br>
+        c) Backlog (caso solicitado)
+        
 
 
 ### 9	MODELO LÓGICO<br>
