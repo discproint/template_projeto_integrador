@@ -61,8 +61,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     
 ![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
 
- 
- 
 
  
  
@@ -124,9 +122,9 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  <br>
   b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
  #### 12.3 ANTEPROJETO VERSÃO 1
- ![Modelo de Anteprojeto](https://docs.google.com/document/d/1nGgzfSoPeej1z7zsuWkrFLMlNeRunrtw/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true "Anteprojeto")
-
-
+ 
+ Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
+ 
  <br>
  <br>
  
