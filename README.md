@@ -91,7 +91,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         a) Historia de usuários vs protótipo (mockup)
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
-        <br>
         c) Backlog (caso solicitado)
         
 
