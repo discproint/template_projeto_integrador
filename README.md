@@ -44,12 +44,15 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
     a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
     b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
     
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+> a) Informações voltadas aos usuários 
+
+> b) A Empresa Contratai precisa inicialmente dos seguintes relatórios:
+* Relatório de todos os usuários que não possuem nenhuma profissão com as seguintes informações: nome, email, nascimento, cpf e estado.
+* Relatório que informe quem são os usuários que possuem alguma profissão com as seguintes informações: nome, email, nascimento, cpf, profissão e estado. 
+* Relatório dos dias disponíveis que um usuário com profissão possui com as seguintes informações: nome, email, nascimento, cpf, profissão, estado e dias disponíveis.
+* Relatório com a quantidade de usuários cadastrados que possuem profissão. 
+* Relatório com as especializações de cada profissão, contendo as seguintes informações: profissão e especialização.
+
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
