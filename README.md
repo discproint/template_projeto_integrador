@@ -5,8 +5,9 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+Rafael Rodrigues Matos: rafael1309mt@gmail.com <br>
+Thiago Neves Luz: nevesluzthiago@gmail.com<br>
+Matheus de Oliveira Magnago: magnagomatheus7@gmail.com <br>
 ...
 
 ### 2.MINIMUNDO<br>
@@ -33,12 +34,11 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
-Neste ponto a codificação não e necessária, somente as ideias de telas devem ser desenvolvidas. O princípio aqui é pensar na criação da interface para identificar possíveis informações a serem armazenadas e/ou descartadas <br>
+O mockup foi feito pelo FIGMA, então disponibilizamos o link abaixo para visualização: <br>
 
-Sugestão: https://balsamiq.com/products/mockups/<br>
+Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7%C3%A3o-Mobile?node-id=2%3A38<br>
 
 ![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/balsamiq.png?raw=true "Title")
-![Arquivo PDF do Protótipo Balsamiq feito para Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/EmpresaDevcom.pdf?raw=true "Empresa Devcom")
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
