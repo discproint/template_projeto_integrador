@@ -7,8 +7,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 Integrantes do grupo<br>
 Rafael Rodrigues Matos: rafael1309mt@gmail.com <br>
 Thiago Neves Luz: nevesluzthiago@gmail.com<br>
-Matheus de Oliveira Magnago: magnagomatheus7@gmail.com <br>
-...
+Matheus de Oliveira Magnago: magnagomatheus7@gmail.com<br>
 
 ### 2.MINIMUNDO<br>
 Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
@@ -20,8 +19,8 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
  
  
 ### 3.PMC<br>
-![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
-a) inclusão do PMC desenvolvido pelo grupo <br>
+![Exemplo de PMC](https://github.com/RhoBlop/template_projeto_integrador/blob/main/arquivos/Canvas.png?raw=true "PMC")
+<br>
 
 
 ### 4.Personas e Histórias de usuário<br>
