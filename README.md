@@ -93,21 +93,21 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 -->
-**USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados <br>
-* **NOME**: Atributo que armazena o nome real do usuário que foi cadastrado <br>
-* **NASCIMENTO**: Atributo que armazena data de nascimento do usuário <br>
-* **CPF**: Atributo que armazena o número de Cadastro de Pessoa Física (CPF) dos usuários <br>
-* **EMAIL**: Atributo que armazena o endereço email do usuário <br>
-* **TELEFONE**: Atributo que armazena o telefone do usuário <br>
-* **FOTO**: Atributo que armazena a URL da foto de perfil que o usuário escolher <br>
-* **SENHA**: Atributo que armazena a senha que o usuário escolher <br>
-**PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema <br>
-* **NOME_PROFISSÃO**: Atributo que armazena o nome da profissão cadastrada <br>
-**ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão <br>
-* **DSC_ESPEC**: Atributo que armazena o nome da especialização da profissão cadastrada <br>
-**DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário <br>
-* **INICIO**: Atributo que armazena a data inicial do período de disponibilidade <br>
-* **FIM**: Atributo que armazena a data final do período de disponibilidade <br>
+**USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados 
+* **NOME**: Atributo que armazena o nome real do usuário que foi cadastrado 
+* **NASCIMENTO**: Atributo que armazena data de nascimento do usuário 
+* **CPF**: Atributo que armazena o número de Cadastro de Pessoa Física (CPF) dos usuários 
+* **EMAIL**: Atributo que armazena o endereço email do usuário 
+* **TELEFONE**: Atributo que armazena o telefone do usuário 
+* **FOTO**: Atributo que armazena a URL da foto de perfil que o usuário escolher 
+* **SENHA**: Atributo que armazena a senha que o usuário escolher 
+**PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema 
+* **NOME_PROFISSÃO**: Atributo que armazena o nome da profissão cadastrada 
+**ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão 
+* **DSC_ESPEC**: Atributo que armazena o nome da especialização da profissão cadastrada 
+**DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário 
+* **INICIO**: Atributo que armazena a data inicial do período de disponibilidade 
+* **FIM**: Atributo que armazena a data final do período de disponibilidade 
 
 
         
