@@ -101,10 +101,13 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
 * **TELEFONE**: Atributo que armazena o telefone do usuário 
 * **FOTO**: Atributo que armazena a URL da foto de perfil que o usuário escolher 
 * **SENHA**: Atributo que armazena a senha que o usuário escolher 
+
 **PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema 
 * **NOME_PROFISSÃO**: Atributo que armazena o nome da profissão cadastrada 
+
 **ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão 
 * **DSC_ESPEC**: Atributo que armazena o nome da especialização da profissão cadastrada 
+
 **DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário 
 * **INICIO**: Atributo que armazena a data inicial do período de disponibilidade 
 * **FIM**: Atributo que armazena a data final do período de disponibilidade 
