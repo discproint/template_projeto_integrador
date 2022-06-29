@@ -82,15 +82,22 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
         Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
         e tuplas falsas (Aplicar os conceitos de normalização abordados).   
 -->        
-![Conceitual](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/Conceitual_ContrataAi.png?raw=true "Modelo Conceitual")
+![Conceitual](https://github.com/RhoBlop/template_projeto_integrador/blob/main/arquivos/Conceitual_ContrataAi.png?raw=true "Modelo Conceitual")
       
     
 #### 7.1 Descrição dos dados 
+<!--
     [objeto]: [descrição do objeto]
     
     EXEMPLO:
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+-->
+    USUÁRIO: Tabela que armazena as informações dos usuários cadastrados <br>
+        NOME: Nome do usuário que foi cadastrado <br>
+        Nascimento: Data de nascimento do usuário <br>
+        
+
 <!-- 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (mockup)
