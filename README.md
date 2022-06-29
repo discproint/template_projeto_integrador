@@ -93,7 +93,7 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 -->
-    **USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados <br>
+**USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados <br>
         **NOME**: Atributo que armazena o nome real do usuário que foi cadastrado <br>
         **NASCIMENTO**: Atributo que armazena data de nascimento do usuário <br>
         **CPF**: Atributo que armazena o número de Cadastro de Pessoa Física (CPF) dos usuários <br>
