@@ -108,14 +108,14 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
     CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 -->
-**USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados 
-**PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema 
-**ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão 
-**DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário 
-**AVALIAÇÃO**: Tabela que refere as avaliações dos serviços de usuário
-**CONTATO**: Tabela referente ao contato entre os usuários e os desenvolverores (nós)
-**CONTRATO**: Relacionamento entre os usuários referente aos serviços. Um usuário contrata alguem para que sua demanda seja realizada.
-**BAIRRO, CIDADE, ESTADO**: Tabelas referentes a localização do usuário
+**USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados <br>
+**PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema <br>
+**ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão <br>
+**DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário <br>
+**AVALIAÇÃO**: Tabela que refere as avaliações dos serviços de usuário <br>
+**CONTATO**: Tabela referente ao contato entre os usuários e os desenvolverores (nós) <br>
+**CONTRATO**: Relacionamento entre os usuários referente aos serviços. Um usuário contrata alguem para que sua demanda seja realizada. <br>
+**BAIRRO, CIDADE, ESTADO**: Tabelas referentes a localização do usuário <br>
 
 
         
