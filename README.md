@@ -25,12 +25,15 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 ### 4.Personas e Histórias de usuário<br>
 <!--
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
+-->
+a) Personas desenvolvidos pelo grupo<br>
+
+![Persona 1 - José](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_José?raw=true)
+
+
 <img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
-<br>
--->
+
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 O mockup foi feito pelo FIGMA, então disponibilizamos o link abaixo para visualização: <br>
@@ -65,10 +68,9 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
 -->    
 
 
-![Tabela de Dados - Contrata Aí](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
+![Link para a Tabela de Dados - Contrata Aí](https://docs.google.com/spreadsheets/d/16KPcQIgBEPmTegCXIHZ1YxdCZvrzmB23dAoRtXDNnhg/edit?usp=sharing "Tabela - Contrata Aí")
 
 
- 
  
  ### 7.MODELO CONCEITUAL<br>
 <!--
