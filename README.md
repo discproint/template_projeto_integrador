@@ -28,12 +28,25 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 -->
 a) Personas desenvolvidos pelo grupo<br>
 
-![Persona 1 - José](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Jose.jpg?raw=true)
 
+Persona 1 - José <br>
+![Persona 1 - José](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Jose.jpg?raw=true "Persona 1 - José")
 
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
+Persona 2 - Jorge <br>
+![Persona 2 - Jorge](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Jorge.jpg?raw=true "Persona 2 - Jorge")
+
+Persona 3 - Ricardo <br>
+![Persona 3 - Ricardo Marques](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_RicardoMarques.jpg?raw=true "Persona 3 - Ricardo Marques")
+
+Persona 4 - Amanda <br>
+![Persona 4 - Amanda](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Amanda.jpg?raw=true "Persona 4 - Amanda")
+
+Persona 5 - Samuel <br>
+![Persona 5 - Samuel](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Samuel.jpg?raw=true "Persona 5 - Samuel")
+
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
+![Link para o PDF das Histórias de Usuários](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/HistóriasdeUsuário.pdf? "Histórias de Usuário")
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 O mockup foi feito pelo FIGMA, então disponibilizamos o link abaixo para visualização: <br>
@@ -96,23 +109,13 @@ Link para acesso: https://www.figma.com/file/1vqdnEQkiOlLbIIEcZ05ip/Aplica%C3%A7
     CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
 -->
 **USUÁRIO**: Tabela que armazena as informações dos usuários cadastrados 
-* **NOME**: Atributo que armazena o nome real do usuário que foi cadastrado 
-* **NASCIMENTO**: Atributo que armazena data de nascimento do usuário 
-* **CPF**: Atributo que armazena o número de Cadastro de Pessoa Física (CPF) dos usuários 
-* **EMAIL**: Atributo que armazena o endereço email do usuário 
-* **TELEFONE**: Atributo que armazena o telefone do usuário 
-* **FOTO**: Atributo que armazena a URL da foto de perfil que o usuário escolher 
-* **SENHA**: Atributo que armazena a senha que o usuário escolher 
-
 **PROFISSÃO**: Tabela que armazena as informações sobre as profissões cadastradas no sistema 
-* **NOME_PROFISSÃO**: Atributo que armazena o nome da profissão cadastrada 
-
 **ESPECIALIZAÇÃO**: Tabela referente às informações sobre a especialização de uma profissão 
-* **DSC_ESPEC**: Atributo que armazena o nome da especialização da profissão cadastrada 
-
 **DISPONIBILIDADE**: Tabela referente à disponibilidade daquele usuário 
-* **INICIO**: Atributo que armazena a data inicial do período de disponibilidade 
-* **FIM**: Atributo que armazena a data final do período de disponibilidade 
+**AVALIAÇÃO**: Tabela que refere as avaliações dos serviços de usuário
+**CONTATO**: Tabela referente ao contato entre os usuários e os desenvolverores (nós)
+**CONTRATO**: Relacionamento entre os usuários referente aos serviços. Um usuário contrata alguem para que sua demanda seja realizada.
+**BAIRRO, CIDADE, ESTADO**: Tabelas referentes a localização do usuário
 
 
         
