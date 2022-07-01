@@ -28,7 +28,7 @@ Descrição textual das regras de negócio definidas como um subconjunto do mund
 -->
 a) Personas desenvolvidos pelo grupo<br>
 
-![Persona 1 - José](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_José?raw=true)
+![Persona 1 - José](https://github.com/RhoBlop/template_projeto_integrador/blob/nova/arquivos/Persona_Jose.jpg?raw=true)
 
 
 <img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
